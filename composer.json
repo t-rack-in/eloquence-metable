@@ -1,5 +1,5 @@
 {
-    "name": "ogestor/eloquence-metable",
+    "name": "ceopag/eloquence-metable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -24,8 +24,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ogestor/eloquence-base": "dev-master",
-        "ogestor/eloquence-mutable": "dev-master"
+        "ceopag/eloquence-base": "dev-master",
+        "ceopag/eloquence-mutable": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
